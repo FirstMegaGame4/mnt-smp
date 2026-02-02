@@ -116,11 +116,6 @@ hash = "252d64d837d274aa46b00729f136d5900a5fb029f8c25f11f280a9b34da6add1"
 metafile = true
 
 [[files]]
-file = "mods/cerulean.pw.toml"
-hash = "a0d25d17465d8883262f9e0645b9876de0af1aa20229db53d3ad639a2c20be2c"
-metafile = true
-
-[[files]]
 file = "mods/charm-forked.pw.toml"
 hash = "a1c4736d7ab8e14ad7f537197187fe9f6a67388de80bb634a21c296cda070326"
 metafile = true
