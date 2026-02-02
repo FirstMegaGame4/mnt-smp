@@ -1,11 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/fabric_loader_dependencies.json"
-hash = "b7c2f86bf165f9f0fb67d8d3f6e25bf38c8d4e350598070b0b51aa95343d8d00"
-metafile = true
-
-[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "bd0848389894ffe9850efb36210060ff0ac3cc31c74af7f80a897de05df4caa2"
 metafile = true
