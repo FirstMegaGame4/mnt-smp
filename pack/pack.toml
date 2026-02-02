@@ -1,0 +1,13 @@
+name = "MNT-SMP"
+author = "Mega"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "e1e4235851e56a27bc686587d2a0a102c345d39506089d3529f4875903d72a84"
+
+[versions]
+fabric = "0.18.4"
+minecraft = "1.21.1"
