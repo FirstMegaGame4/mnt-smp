@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/fabric_loader_dependencies.json"
+hash = "b7c2f86bf165f9f0fb67d8d3f6e25bf38c8d4e350598070b0b51aa95343d8d00"
+metafile = true
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "bd0848389894ffe9850efb36210060ff0ac3cc31c74af7f80a897de05df4caa2"
 metafile = true
@@ -196,6 +201,11 @@ hash = "a104f2f6044d43bbc5a5badc6f589b2f6f5a1b9c9e47e00dfbad5061aa3b51f4"
 metafile = true
 
 [[files]]
+file = "mods/immersive-aircraft.pw.toml"
+hash = "ab5b5ecade1d9cf981d11fee68d5f42e5d933a4e4d9b15b2657d8da2a4f8304a"
+metafile = true
+
+[[files]]
 file = "mods/immersive-machinery.pw.toml"
 hash = "4f7727c49e623864c1297e4c7a16eefb33893119865b7e96787da9c5119c8e8b"
 metafile = true
@@ -213,6 +223,11 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "5564dbbe8adc0ba450afc6a1c3eef82f183a53ede5f3b1de0bc6ca320aadc5e9"
+metafile = true
+
+[[files]]
+file = "mods/mcpitanlibarch.pw.toml"
+hash = "cdab0b29866be55d0bbad2acc1a5136e73399202e9f7dda7596aa81ce3204ae5"
 metafile = true
 
 [[files]]
