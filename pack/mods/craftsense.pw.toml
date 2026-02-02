@@ -1,0 +1,13 @@
+name = "CraftSense"
+filename = "craftsense-1.21-v1.1.9.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/btPzz1Xc/versions/TDOCHRl8/craftsense-1.21-v1.1.9.jar"
+hash-format = "sha512"
+hash = "98eb9f2b4ac089a0886697db705bda2a86b15f7795d73d7424b1d5583b0e8f8bd3523cbb6acdd76cc76f6807cd28aa8fd8ba24e7eba8e9604dd9e55219408516"
+
+[update]
+[update.modrinth]
+mod-id = "btPzz1Xc"
+version = "TDOCHRl8"

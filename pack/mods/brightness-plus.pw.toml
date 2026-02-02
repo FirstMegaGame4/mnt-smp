@@ -1,0 +1,13 @@
+name = "Brightness Plus"
+filename = "brightness-plus-1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Q5HY7g5g/versions/Y6DCSenJ/brightness-plus-1.21.1.jar"
+hash-format = "sha512"
+hash = "1ce3fe5f4b76e73ffbdee4dff370a68907741b11d9eb03d7618c8269362408e2b91d4ae0eb5a5aba8bfeb76c008d85f0a37f08afd5633869e3ba916875306652"
+
+[update]
+[update.modrinth]
+mod-id = "Q5HY7g5g"
+version = "Y6DCSenJ"
