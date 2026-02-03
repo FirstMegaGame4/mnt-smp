@@ -216,6 +216,11 @@ hash = "8e6ccd1feda8a5162c1dc6001218d997abcfe77914e5afed65c427394ef4b752"
 metafile = true
 
 [[files]]
+file = "mods/balm.pw.toml"
+hash = "a9f6cf1a98bc318c887b672aecaff6ffdbf33a6ec06af5f2686b292988d0846e"
+metafile = true
+
+[[files]]
 file = "mods/bclib-21.0.13.pw.toml"
 hash = "01dbb6ad8285b2cbfce34f0869fe36090c0c188bc2e5004ef45c39fed97bd1e7"
 metafile = true
