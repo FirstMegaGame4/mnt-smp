@@ -775,3 +775,18 @@ version = "mezhyzfP"
 type = "modrinth"
 id = "what-are-they-up-to"
 version = "iHAQTK0N"
+
+[[mods]]
+type = "modrinth"
+id = "resourceful-lib"
+version = "Hf91FuVF"
+
+[[mods]]
+type = "modrinth"
+id = "moonlight"
+version = "SyIbV8py"
+
+[[mods]]
+type = "modrinth"
+id = "coroutil"
+version = "U0NUocji"
