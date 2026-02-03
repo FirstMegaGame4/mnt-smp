@@ -1,0 +1,17 @@
+name = "vivatech-1.0.0-alpha.26"
+filename = "vivatech-1.0.0-alpha.26.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Z7LQgxZt/versions/ZGxJ3GPf/vivatech-1.0.0-alpha.26.jar"
+hash = "6a59fd97b18cc99eb9b97b62afedaf419983dc2a375b862313aebf08bf93435c0c0a4a0116005b295665783cb9b4a2795c4277b9c95013404ff4700aee91b501"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "Z7LQgxZt"
+version = "ZGxJ3GPf"

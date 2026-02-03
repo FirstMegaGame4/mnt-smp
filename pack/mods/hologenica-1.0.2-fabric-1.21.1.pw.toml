@@ -1,0 +1,17 @@
+name = "hologenica-1.0.2-fabric-1.21.1"
+filename = "hologenica-1.0.2-fabric-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/huOhn9zP/versions/4o9rF2gI/hologenica-1.0.2-fabric-1.21.1.jar"
+hash = "0a984c57ec6be6fe313781354b4b9ffd8fea457ecdf8f96d2eb827eaa34ae12a19217cf4c1a765f9ffbf86883ea383a66898f75ff57dd16cf91a6d23cc8a0697"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "huOhn9zP"
+version = "4o9rF2gI"

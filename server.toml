@@ -548,11 +548,6 @@ version = "emxkbvxS"
 
 [[mods]]
 type = "modrinth"
-id = "a6qSiVxz"
-version = "UILy9Yvs"
-
-[[mods]]
-type = "modrinth"
 id = "xv94TkTM"
 version = "hGJDoW2W"
 
@@ -665,3 +660,118 @@ version = "xhubN5q0"
 type = "modrinth"
 id = "6AQIaxuO"
 version = "j4ao0meG"
+
+[[mods]]
+type = "modrinth"
+id = "chat-heads"
+version = "9dRmYosQ"
+
+[[mods]]
+type = "modrinth"
+id = "clumps"
+version = "3ene3W1l"
+
+[[mods]]
+type = "modrinth"
+id = "ambientsounds"
+version = "ZNs2dkwo"
+
+[[mods]]
+type = "modrinth"
+id = "c2me-fabric"
+version = "DSqOVCaF"
+
+[[mods]]
+type = "modrinth"
+id = "visuality"
+version = "dhKbgdIb"
+
+[[mods]]
+type = "modrinth"
+id = "visual-workbench"
+version = "fGXmFJ8q"
+
+[[mods]]
+type = "modrinth"
+id = "capes"
+version = "6SzVPVR4"
+
+[[mods]]
+type = "modrinth"
+id = "morechathistory"
+version = "3siYJiWG"
+
+[[mods]]
+type = "modrinth"
+id = "supplementaries"
+version = "qkYPbsg0"
+
+[[mods]]
+type = "modrinth"
+id = "mixintrace"
+version = "LGYOH4RN"
+
+[[mods]]
+type = "modrinth"
+id = "handcrafted"
+version = "f0pKpUWd"
+
+[[mods]]
+type = "modrinth"
+id = "rrls"
+version = "FDyKvCJ2"
+
+[[mods]]
+type = "modrinth"
+id = "bobby"
+version = "oeSOphtG"
+
+[[mods]]
+type = "modrinth"
+id = "lootr"
+version = "SEy2jzxJ"
+
+[[mods]]
+type = "modrinth"
+id = "terralith"
+version = "MuJMtPGQ"
+
+[[mods]]
+type = "modrinth"
+id = "comforts"
+version = "LUPOTXbk"
+
+[[mods]]
+type = "modrinth"
+id = "chipped"
+version = "6h2mVZcb"
+
+[[mods]]
+type = "modrinth"
+id = "spark"
+version = "cALUj9l1"
+
+[[mods]]
+type = "modrinth"
+id = "wavey-capes"
+version = "ZtvlEp9r"
+
+[[mods]]
+type = "modrinth"
+id = "freecam"
+version = "Cg10zLnR"
+
+[[mods]]
+type = "modrinth"
+id = "advancement-plaques"
+version = "g0SNjiMq"
+
+[[mods]]
+type = "modrinth"
+id = "chatanimation"
+version = "mezhyzfP"
+
+[[mods]]
+type = "modrinth"
+id = "what-are-they-up-to"
+version = "iHAQTK0N"

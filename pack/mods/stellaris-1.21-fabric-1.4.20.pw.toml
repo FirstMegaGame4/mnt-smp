@@ -1,0 +1,17 @@
+name = "stellaris-1.21-fabric-1.4.20"
+filename = "stellaris-1.21-fabric-1.4.20.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ItTQpuBn/versions/fcg0BOwC/stellaris-1.21-fabric-1.4.20.jar"
+hash = "5fbd498b985b99e717f4170771e441d1d81c59e467c5a42f927481becd23f31a8456c278f885d734640aa294f17a01082264cac7353751be2e9ee2a4ec612a85"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "ItTQpuBn"
+version = "fcg0BOwC"
