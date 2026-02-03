@@ -711,11 +711,6 @@ hash = "cc88ea843c50ef6da6251e5ba35965cebc0e76b8bff3f9a4e10df5577bcaf21e"
 metafile = true
 
 [[files]]
-file = "mods/xaerowaystonescompatibility-fabric-1.21.[0-10]-1.0.1.pw.toml"
-hash = "8771fc977e5dfb3c43b9fde45ddf361e45494d001c353da9b92db1d0dcec76b8"
-metafile = true
-
-[[files]]
 file = "mods/xaeroworldmap-fabric-1.21.1-1.40.6.pw.toml"
 hash = "407cb10eba860d5f34645f7b464060dc8d9b92d25d1ab4f8b1a768f1d8ec135d"
 metafile = true
