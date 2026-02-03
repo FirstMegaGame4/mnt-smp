@@ -785,3 +785,13 @@ version = "SyIbV8py"
 type = "modrinth"
 id = "coroutil"
 version = "U0NUocji"
+
+[[mods]]
+type = "modrinth"
+id = "creativecore"
+version = "3ZRFwsQm"
+
+[[mods]]
+type = "modrinth"
+id = "iceberg"
+version = "7ITFAyW8"
