@@ -41,6 +41,11 @@ hash = "637827e76b89ded64b1492371a7cef4d371e961935bb448886620716ba9b54c3"
 metafile = true
 
 [[files]]
+file = "mods/CreativeCore_FABRIC_v2.13.24_mc1.21.1.pw.toml"
+hash = "b40b600ae30cffc1a189db2f2d528049fdaa2d3da8e22bef9d3a4680aea4fd6e"
+metafile = true
+
+[[files]]
 file = "mods/EnhancedQuarries-1.6.6.pw.toml"
 hash = "b65b0f266dcfee35eff0b73cb66ae24cb47616ba1d02c74c9f774c4629f0d296"
 metafile = true
@@ -63,6 +68,11 @@ metafile = true
 [[files]]
 file = "mods/HangGlider-v21.1.0-1.21.1-Fabric.pw.toml"
 hash = "4483ea82cdd57bfa88b723286dee0fcce2c301d2faecf0fc9bbc5438a596eb8a"
+metafile = true
+
+[[files]]
+file = "mods/Iceberg-1.21.1-fabric-1.3.2.pw.toml"
+hash = "d62db883d6d28db53cb0a374955753c424264e096fd0841fe07144eecf7c9dd7"
 metafile = true
 
 [[files]]

@@ -1,12 +1,10 @@
-name = "MNT SMP"
-author = "Mega"
-version = "1.0.0"
+name = "mnt-smp"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "211134e3a46d6ef1e5abdc018b94064b0d906cb3b52da33828eddf9b7cd03c53"
+hash = "511fd291ef046985de44f6ba85a860ef3842f65c94b6cbbb409f1370ba28eb9e"
 
 [versions]
 fabric = "0.18.4"
