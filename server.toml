@@ -805,3 +805,8 @@ version = "qht7ppsj"
 type = "modrinth"
 id = "pneumono_core"
 version = "QKvgjhTZ"
+
+[[mods]]
+type = "modrinth"
+id = "tesseract"
+version = "9L9uix4F"

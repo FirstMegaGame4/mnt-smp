@@ -636,6 +636,11 @@ hash = "14e20c76929879abf345601a1979854c3020dd82d27ca046d0eabeb8c2ec9a02"
 metafile = true
 
 [[files]]
+file = "mods/tesseract.pw.toml"
+hash = "ee30e051d0e4a00febc4b15d12a83bff78d6a5b059ddf0281208711a6c137762"
+metafile = true
+
+[[files]]
 file = "mods/totw_modded-fabric-1.21-1.0.9.pw.toml"
 hash = "f49cbf6891728c0d75fc7fa8e30430d98445fdead54fbfb893989172e45866e0"
 metafile = true
