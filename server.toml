@@ -795,3 +795,13 @@ version = "3ZRFwsQm"
 type = "modrinth"
 id = "iceberg"
 version = "7ITFAyW8"
+
+[[mods]]
+type = "modrinth"
+id = "pneumono_gravestones"
+version = "qht7ppsj"
+
+[[mods]]
+type = "modrinth"
+id = "pneumono_core"
+version = "QKvgjhTZ"
