@@ -810,3 +810,28 @@ version = "QKvgjhTZ"
 type = "modrinth"
 id = "tesseract"
 version = "9L9uix4F"
+
+[[mods]]
+type = "modrinth"
+id = "energized-power"
+version = "lQ3T62Ud"
+
+[[mods]]
+type = "modrinth"
+id = "energized-power-bop"
+version = "oso40B1G"
+
+[[mods]]
+type = "modrinth"
+id = "energized-power-ta"
+version = "dIQQn9UV"
+
+[[mods]]
+type = "modrinth"
+id = "pipeplus"
+version = "2OwSdp7w"
+
+[[mods]]
+type = "modrinth"
+id = "simple-pipes"
+version = "sCgnNqbS"

@@ -376,6 +376,21 @@ hash = "8b37663553d3c819d69256459e94018bcdf5fec3cd2cd1e3060524bff1ef59b5"
 metafile = true
 
 [[files]]
+file = "mods/energized-power-bop.pw.toml"
+hash = "aa95c0466b6813d51240ba3b541d00f58fd804fdd18dcbb62e40d14a8a784157"
+metafile = true
+
+[[files]]
+file = "mods/energized-power-ta.pw.toml"
+hash = "c0fb2513b94139a2d390e37a3f157b62dbb3aad27adde5853b29e075d29664f1"
+metafile = true
+
+[[files]]
+file = "mods/energized-power.pw.toml"
+hash = "ea869fff2fc8263be617627e938fb70df142ab0e22026119c869516aa681a8a6"
+metafile = true
+
+[[files]]
 file = "mods/enhancedblockentities-0.10.2+1.21.pw.toml"
 hash = "3057e817d0cf56df52544ea1e862d88ad2adcfc3b5510ba5ce96011e3d3663da"
 metafile = true
@@ -526,6 +541,11 @@ hash = "a9f8d803c70cf5d1f685436306e15851ae9ea2d9056562f7bd3379e1a917645d"
 metafile = true
 
 [[files]]
+file = "mods/pipeplus.pw.toml"
+hash = "077858d3dfab58f63c133983a284a287aaff3e2a7445f161116032fb79eb87d6"
+metafile = true
+
+[[files]]
 file = "mods/placeholder-api-2.4.2+1.21.pw.toml"
 hash = "31bb613660ba402f26e18f86e6337d03dadd80c4cf503c7fbdebceb5cf8431be"
 metafile = true
@@ -588,6 +608,11 @@ metafile = true
 [[files]]
 file = "mods/silk-all-1.10.7.pw.toml"
 hash = "1476433f033a7141887c4342d46db61b1864b1efd5f012dcfc3fc14edb4de3ba"
+metafile = true
+
+[[files]]
+file = "mods/simple-pipes.pw.toml"
+hash = "3ff9e556f880b2411a5a7e7df18796e968326cf8a097a571b8f6b6cee9f55a1f"
 metafile = true
 
 [[files]]
