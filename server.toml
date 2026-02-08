@@ -835,3 +835,8 @@ version = "hYiFHtv0"
 type = "modrinth"
 id = "extravaganza"
 version = "UbLfCVsi"
+
+[[mods]]
+type = "modrinth"
+id = "trash-cans"
+version = "lZ4PnlfJ"
