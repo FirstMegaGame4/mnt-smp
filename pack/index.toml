@@ -526,6 +526,11 @@ hash = "bddca939db415b5486ed58e2698d08abc1ee3244a2c37be3e69ecb145b60ce86"
 metafile = true
 
 [[files]]
+file = "mods/new-linked-chests.pw.toml"
+hash = "0b725f508b6894d6166ba214f554c285dba3378f7763c58a92b01d8ea10e5cef"
+metafile = true
+
+[[files]]
 file = "mods/notenoughanimations-fabric-1.11.2-mc1.21.1.pw.toml"
 hash = "e7aefba6022d20fdb4af783dac16ebe5130646bfb036b5a1a8b878225acfb52f"
 metafile = true
