@@ -1,0 +1,13 @@
+name = "Extravaganza!"
+filename = "extravaganza-0.3.1-beta.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Joiujp4e/versions/UbLfCVsi/extravaganza-0.3.1-beta.jar"
+hash-format = "sha512"
+hash = "0ebd79843a10d1e439274d02b07ccaa2b85c06a8a568ae0d0c593235e2a56309aa0ed46df03ddc1ed2c96f65338535f7abae6892ff3eae0594af9b1dc78c2d2a"
+
+[update]
+[update.modrinth]
+mod-id = "Joiujp4e"
+version = "UbLfCVsi"

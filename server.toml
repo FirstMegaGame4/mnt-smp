@@ -830,3 +830,8 @@ version = "dIQQn9UV"
 type = "modrinth"
 id = "new-linked-chests"
 version = "hYiFHtv0"
+
+[[mods]]
+type = "modrinth"
+id = "extravaganza"
+version = "UbLfCVsi"

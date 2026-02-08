@@ -396,6 +396,11 @@ hash = "3057e817d0cf56df52544ea1e862d88ad2adcfc3b5510ba5ce96011e3d3663da"
 metafile = true
 
 [[files]]
+file = "mods/extravaganza.pw.toml"
+hash = "b8974aac2ca105e0b2e40dd8e2e0573172ec46e33aace371363a217e752ab134"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api-0.116.8+1.21.1.pw.toml"
 hash = "4f0d8c4e6a9e4b707b932c1a0a05116d219fc3197c31b25e8312e668203c125c"
 metafile = true
