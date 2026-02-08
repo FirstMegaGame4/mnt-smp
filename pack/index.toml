@@ -531,6 +531,11 @@ hash = "e7aefba6022d20fdb4af783dac16ebe5130646bfb036b5a1a8b878225acfb52f"
 metafile = true
 
 [[files]]
+file = "mods/oracle-index.pw.toml"
+hash = "bc4e5acbfceb6b80f0565133a3f65d95639d174e0cbd7540d03a60d035896fa0"
+metafile = true
+
+[[files]]
 file = "mods/oritech-fabric-1.21.1-1.0.0.pw.toml"
 hash = "4f34aea4c9d3d74cd86a218de1b73574d7081753a770755539aad82ff75430b8"
 metafile = true

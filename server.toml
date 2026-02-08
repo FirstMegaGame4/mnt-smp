@@ -826,3 +826,7 @@ type = "modrinth"
 id = "energized-power-ta"
 version = "dIQQn9UV"
 
+[[mods]]
+type = "modrinth"
+id = "oracle-index"
+version = "I3gZ6T42"
