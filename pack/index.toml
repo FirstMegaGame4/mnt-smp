@@ -681,6 +681,11 @@ hash = "1248b6f687aa34a6717740afa5f20efd2fc3836059a937e4c97a7e2ae343d16e"
 metafile = true
 
 [[files]]
+file = "mods/trash-cans.pw.toml"
+hash = "f79709f5695efb597d43457a3e21cc3bf1c7edce7a3258b6bbfcb456c9d08759"
+metafile = true
+
+[[files]]
 file = "mods/travelersbackpack-fabric-1.21.1-10.1.33.pw.toml"
 hash = "9ff71b1d5a43ecf98859cdab298a1a4ee2aabdc8669604735fce10d4b5a4a3d1"
 metafile = true
