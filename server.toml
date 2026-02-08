@@ -826,12 +826,3 @@ type = "modrinth"
 id = "energized-power-ta"
 version = "dIQQn9UV"
 
-[[mods]]
-type = "modrinth"
-id = "pipeplus"
-version = "2OwSdp7w"
-
-[[mods]]
-type = "modrinth"
-id = "simple-pipes"
-version = "sCgnNqbS"
