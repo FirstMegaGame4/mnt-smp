@@ -856,7 +856,3 @@ type = "modrinth"
 id = "crafttweaker"
 version = "Ftksd8nb"
 
-[[mods]]
-type = "modrinth"
-id = "crafttweaker-gui"
-version = "MyRQjuW1"

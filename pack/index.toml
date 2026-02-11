@@ -336,11 +336,6 @@ hash = "387aff059cf732066fde1ff95e244e5788b4f0c4494307401433b82a5e60549b"
 metafile = true
 
 [[files]]
-file = "mods/crafttweaker-gui.pw.toml"
-hash = "18fa040ae1a2131664bd8de1ba04a41b4ee4a4ba971c8f640aec3225fe7ce6ad"
-metafile = true
-
-[[files]]
 file = "mods/crafttweaker.pw.toml"
 hash = "faaff57c5b26e464bebc517f3ead8df1ccc5050affa8340f309579ea0088fc15"
 metafile = true
