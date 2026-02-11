@@ -331,11 +331,6 @@ hash = "13c27863fc1a3717075606853c74569d713e8f594f64272eee6eacb97b09fa19"
 metafile = true
 
 [[files]]
-file = "mods/craftsense-1.21-v1.1.9.pw.toml"
-hash = "387aff059cf732066fde1ff95e244e5788b4f0c4494307401433b82a5e60549b"
-metafile = true
-
-[[files]]
 file = "mods/crafttweaker.pw.toml"
 hash = "faaff57c5b26e464bebc517f3ead8df1ccc5050affa8340f309579ea0088fc15"
 metafile = true
