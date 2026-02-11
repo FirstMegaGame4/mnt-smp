@@ -100,31 +100,31 @@
 		},
 		"reactors": {
 			"capacities": {
-				"starter": 40000,
-				"basic": 160000,
-				"hardened": 400000,
-				"blazing": 1600000,
-				"niotic": 4000000,
-				"spirited": 16000000,
-				"nitro": 80000000
+				"starter": 400000,
+				"basic": 1600000,
+				"hardened": 4000000,
+				"blazing": 16000000,
+				"niotic": 40000000,
+				"spirited": 160000000,
+				"nitro": 800000000
 			},
 			"transfer_rates": {
-				"starter": 160,
-				"basic": 640,
-				"hardened": 1600,
-				"blazing": 6400,
-				"niotic": 16000,
-				"spirited": 64000,
-				"nitro": 320000
+				"starter": 1600,
+				"basic": 6400,
+				"hardened": 16000,
+				"blazing": 64000,
+				"niotic": 160000,
+				"spirited": 640000,
+				"nitro": 3200000
 			},
 			"generation_rates": {
-				"starter": 40,
-				"basic": 160,
-				"hardened": 400,
-				"blazing": 1600,
-				"niotic": 4000,
-				"spirited": 16000,
-				"nitro": 80000
+				"starter": 400,
+				"basic": 1600,
+				"hardened": 4000,
+				"blazing": 16000,
+				"niotic": 40000,
+				"spirited": 160000,
+				"nitro": 800000
 			}
 		},
 		"solar_panels": {

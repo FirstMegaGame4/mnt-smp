@@ -840,3 +840,23 @@ version = "UbLfCVsi"
 type = "modrinth"
 id = "trash-cans"
 version = "lZ4PnlfJ"
+
+[[mods]]
+type = "modrinth"
+id = "show-me-your-skin"
+version = "qnCeuBkc"
+
+[[mods]]
+type = "modrinth"
+id = "crafttweaker"
+version = "Ftksd8nb"
+
+[[mods]]
+type = "modrinth"
+id = "crafttweaker"
+version = "Ftksd8nb"
+
+[[mods]]
+type = "modrinth"
+id = "crafttweaker-gui"
+version = "MyRQjuW1"

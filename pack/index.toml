@@ -311,6 +311,11 @@ hash = "b166d00b27e249f5f470c68a33b5c53133a3648f5bc3d0f3ca679a1eaf101b29"
 metafile = true
 
 [[files]]
+file = "mods/cicada.pw.toml"
+hash = "e5196147e561521c5a3ebaea601191e442d252cc8f0a7be8ba8db136f93c44fe"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config-15.0.140-fabric.pw.toml"
 hash = "241e854b44a821cec4eb2c8c6fe1f1de51c8d6a182290f1d50f7284d99be49ef"
 metafile = true
@@ -328,6 +333,16 @@ metafile = true
 [[files]]
 file = "mods/craftsense-1.21-v1.1.9.pw.toml"
 hash = "387aff059cf732066fde1ff95e244e5788b4f0c4494307401433b82a5e60549b"
+metafile = true
+
+[[files]]
+file = "mods/crafttweaker-gui.pw.toml"
+hash = "18fa040ae1a2131664bd8de1ba04a41b4ee4a4ba971c8f640aec3225fe7ce6ad"
+metafile = true
+
+[[files]]
+file = "mods/crafttweaker.pw.toml"
+hash = "faaff57c5b26e464bebc517f3ead8df1ccc5050affa8340f309579ea0088fc15"
 metafile = true
 
 [[files]]
@@ -418,6 +433,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-seasons-terralith-2.3.7-compat-1.0.pw.toml"
 hash = "1c3fdc385bbd9bafda09ed6e7438b96b36c2d59c1944f664f60fe8cc240b3076"
+metafile = true
+
+[[files]]
+file = "mods/faux-custom-entity-data.pw.toml"
+hash = "5f67c621095cc9e107d2a379b3fca4bd844f51f9a8e11a560daf107bb0320f03"
 metafile = true
 
 [[files]]
@@ -613,6 +633,11 @@ metafile = true
 [[files]]
 file = "mods/seasonsnaturesspiritcompat-1.0.4.pw.toml"
 hash = "449c5d358d59e380c9bb9e1dee5e82236518e2301367906f5a35d0caf216aaf5"
+metafile = true
+
+[[files]]
+file = "mods/show-me-your-skin.pw.toml"
+hash = "26a06bacc278a6541cdf6a1301210167031cf2398fa3467df7e5b87092afe37f"
 metafile = true
 
 [[files]]

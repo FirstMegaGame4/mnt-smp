@@ -1,0 +1,13 @@
+name = "CraftTweaker GUI"
+filename = "ctgui-fabric-1.21.1-0.3.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/FPG0nezA/versions/MyRQjuW1/ctgui-fabric-1.21.1-0.3.1.jar"
+hash-format = "sha512"
+hash = "8b65e6bb2225b791ca203d042ad515ab02b37c4096ec9ad607221c348ad1eee45c56976c3a918050502e7115def51312500787a8fc701bc0d3a4d91ed146d42d"
+
+[update]
+[update.modrinth]
+mod-id = "FPG0nezA"
+version = "MyRQjuW1"
