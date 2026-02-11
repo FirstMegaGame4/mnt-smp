@@ -856,3 +856,22 @@ type = "modrinth"
 id = "crafttweaker"
 version = "Ftksd8nb"
 
+[[mods]]
+type = "modrinth"
+id = "cicada"
+version = "ulZDYpW0"
+
+[[mods]]
+type = "modrinth"
+id = "faux-custom-entity-data"
+version = "XvAeY9KZ"
+
+[[mods]]
+type = "modrinth"
+id = "oritech"
+version = "Ttqmf9Aj"
+
+[[mods]]
+type = "modrinth"
+id = "oracle-index"
+version = "I3gZ6T42"

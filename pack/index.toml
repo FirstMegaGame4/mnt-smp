@@ -557,12 +557,17 @@ metafile = true
 
 [[files]]
 file = "mods/oracle-index.pw.toml"
-hash = "2a7b8b18833c69e9264c60491fabc76ceaab3d1b644d0375b1cd22e2cce01124"
+hash = "bc4e5acbfceb6b80f0565133a3f65d95639d174e0cbd7540d03a60d035896fa0"
 metafile = true
 
 [[files]]
 file = "mods/oritech-fabric-1.21.1-1.0.0.pw.toml"
 hash = "4f34aea4c9d3d74cd86a218de1b73574d7081753a770755539aad82ff75430b8"
+metafile = true
+
+[[files]]
+file = "mods/oritech.pw.toml"
+hash = "ffb62416b7877fd04de77bef1988e23af5c7c173b33592faae4507907d2f10e8"
 metafile = true
 
 [[files]]
