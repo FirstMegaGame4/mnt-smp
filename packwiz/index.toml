@@ -1,6 +1,22 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/Veinminer/groups.json"
+hash = "df2e71c157f4e566aafa56a2eebdbf3f094f9c6009638286b6f8ec3c9c5b5542"
+
+[[files]]
+file = "config/Veinminer/settings.json"
+hash = "32667c1164bf67d3e53b35b839d0d601e30e9c394ed540dbe3b9e3d891b738ed"
+
+[[files]]
+file = "config/betterend/client.json"
+hash = "a928f76ecd115ccf4e0e7235a7c209c6929ea0f7b1e3d94a8f3aa7cf89b449f9"
+
+[[files]]
+file = "config/fabric_loader_dependencies.json"
+hash = "d6a53a05b1edc7c09b80f624e55b91096bfe16b58f7970a1ac8db3af2c4f3c32"
+
+[[files]]
 file = "mods/AdvancedReborn-1.21.1-1.3.4.pw.toml"
 hash = "8339a8a30dd6da17056f296a7eaa640176089ed3a8e35941fbbf84b6378ba40f"
 metafile = true
@@ -483,6 +499,11 @@ metafile = true
 [[files]]
 file = "mods/itemcollectors-1.1.10-fabric-mc1.21.pw.toml"
 hash = "b66ad624cf73eb336008dd5c04b75cdfa485f4f1432117043a35c97a049a9ab8"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "76a2560989102413693bbfbea83570287b3dce4f6ed40dc69aacbd3268633fe7"
 metafile = true
 
 [[files]]
