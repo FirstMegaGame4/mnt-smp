@@ -96,11 +96,6 @@ hash = "787efa9dbdf5c51e790ad3cbfb66a569970399ffc77dac4dbb62ee39ef9a22dd"
 metafile = true
 
 [[files]]
-file = "mods/RoughlyEnoughItems-16.0.799-fabric.pw.toml"
-hash = "1052434bcd0ca59a9c12c1fcfa1269b5bc1471d548556998adc1e887159932e1"
-metafile = true
-
-[[files]]
 file = "mods/Searchables-fabric-1.21.1-1.0.2.pw.toml"
 hash = "17430382bd906050992592396d5d5d662d0b3a2dee3801f3aba97afdff04b0b8"
 metafile = true
@@ -373,6 +368,11 @@ metafile = true
 [[files]]
 file = "mods/dungeons-and-taverns-v4.4.4.pw.toml"
 hash = "484b32cfdae02f3f68b5e50eb11e1d64565dba1e13301b6b9f537c270442a60c"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "60e6720aafdfa3304b086f7465917179485a3b2463230505728bd24d54113de3"
 metafile = true
 
 [[files]]

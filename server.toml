@@ -353,11 +353,6 @@ version = "rfFqJDcN"
 
 [[mods]]
 type = "modrinth"
-id = "nfn13YXA"
-version = "aWzTESNC"
-
-[[mods]]
-type = "modrinth"
 id = "aTaCgKLW"
 version = "jrC1TCfF"
 
@@ -890,3 +885,8 @@ version = "z9QlVOyl"
 type = "modrinth"
 id = "blossomlib"
 version = "pGBxzJgQ"
+
+[[mods]]
+type = "modrinth"
+id = "emi"
+version = "mYQ3bJs5"
