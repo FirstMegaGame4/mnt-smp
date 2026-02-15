@@ -486,6 +486,11 @@ hash = "b66ad624cf73eb336008dd5c04b75cdfa485f4f1432117043a35c97a049a9ab8"
 metafile = true
 
 [[files]]
+file = "mods/krypton.pw.toml"
+hash = "c4e45594c8d1ab3dacc3b49142f16fb253178dd31d97cc917bf4a4d54f21e081"
+metafile = true
+
+[[files]]
 file = "mods/lavender-0.1.15+1.21.pw.toml"
 hash = "9cad3191cce4d6afc90d180a873ba98578eada67aa270cf4dacc2c2c94dd667a"
 metafile = true
