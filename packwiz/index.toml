@@ -62,11 +62,6 @@ hash = "b40b600ae30cffc1a189db2f2d528049fdaa2d3da8e22bef9d3a4680aea4fd6e"
 metafile = true
 
 [[files]]
-file = "mods/EnhancedQuarries-1.6.6.pw.toml"
-hash = "b65b0f266dcfee35eff0b73cb66ae24cb47616ba1d02c74c9f774c4629f0d296"
-metafile = true
-
-[[files]]
 file = "mods/ExplorersCompass-1.21.1-2.2.5-fabric.pw.toml"
 hash = "6fa34b07e6ff8209399eace04aa9f203ae0f53817702f58fe0630f70462a9948"
 metafile = true
@@ -187,6 +182,11 @@ hash = "14e68ea1c7240ecb5d2466f286c0ce11ba93f5ce1bb0f8bd08e69b6b0cf71811"
 metafile = true
 
 [[files]]
+file = "mods/additional-enchanted-miner.pw.toml"
+hash = "97e1f4f8632cf40b89c44bc118a9fad492c89c47232040fe6512f5bcb8b3ae3a"
+metafile = true
+
+[[files]]
 file = "mods/adventurez-1.5.0.pw.toml"
 hash = "1b12d5a18166f111204043d86f6bc5200e1c098a49d5f38ac82d6efb6a6b8a11"
 metafile = true
@@ -219,6 +219,11 @@ metafile = true
 [[files]]
 file = "mods/athena-fabric-1.21-4.0.2.pw.toml"
 hash = "0a35178ce6d848d8ee2502a4dfe3333572e80e432c3783119227a1050dfe0b89"
+metafile = true
+
+[[files]]
+file = "mods/automatic-potato.pw.toml"
+hash = "be64079e6b07ea060e3f9b375d5e888cf941880619cdd7eba922f68419922d8e"
 metafile = true
 
 [[files]]
@@ -649,6 +654,11 @@ metafile = true
 [[files]]
 file = "mods/rrls-5.0.10+mc1.21.1-fabric.pw.toml"
 hash = "4dab4289b4eb76e35cc620dd0673e08d029fb5053ee74a341def5c56a80d009d"
+metafile = true
+
+[[files]]
+file = "mods/scalable-cats-force.pw.toml"
+hash = "94348eb859cbe4152cbc2f665da89414667d566ca1ed80fff45acea942bb8e69"
 metafile = true
 
 [[files]]

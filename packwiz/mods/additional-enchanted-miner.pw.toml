@@ -1,0 +1,13 @@
+name = "Additional Enchanted Miner"
+filename = "AdditionalEnchantedMiner-1.21.1-fabric-21.1.144.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jhxX1zVW/versions/8qvqWEYq/AdditionalEnchantedMiner-1.21.1-fabric-21.1.144.jar"
+hash-format = "sha512"
+hash = "ad7f7d5ea499a4c483b2425c7b44a39e849de1745efda61eef181ca0ee0a459d18894d5c40365f5a4b7558dd8ddab0f6250f2cdd4d749e6c53581cf280939f84"
+
+[update]
+[update.modrinth]
+mod-id = "jhxX1zVW"
+version = "8qvqWEYq"

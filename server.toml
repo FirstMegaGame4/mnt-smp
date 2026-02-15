@@ -558,11 +558,6 @@ version = "17SqiDCk"
 
 [[mods]]
 type = "modrinth"
-id = "JcIgEOzn"
-version = "PTlFA1ut"
-
-[[mods]]
-type = "modrinth"
 id = "ohNO6lps"
 version = "N5qzq0XV"
 
@@ -895,3 +890,18 @@ version = "mYQ3bJs5"
 type = "modrinth"
 id = "jei"
 version = "TvqzuFwN"
+
+[[mods]]
+type = "modrinth"
+id = "additional-enchanted-miner"
+version = "8qvqWEYq"
+
+[[mods]]
+type = "modrinth"
+id = "scalable-cats-force"
+version = "rtASbMPr"
+
+[[mods]]
+type = "modrinth"
+id = "automatic-potato"
+version = "oFGgQUPZ"
