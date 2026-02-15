@@ -870,3 +870,23 @@ version = "Ttqmf9Aj"
 type = "modrinth"
 id = "oracle-index"
 version = "I3gZ6T42"
+
+[[mods]]
+type = "modrinth"
+id = "e4mc"
+version = "JSmcqwxn"
+
+[[mods]]
+type = "modrinth"
+id = "blossomtpa"
+version = "2DVdRJno"
+
+[[mods]]
+type = "modrinth"
+id = "blossomback"
+version = "z9QlVOyl"
+
+[[mods]]
+type = "modrinth"
+id = "blossomlib"
+version = "pGBxzJgQ"
