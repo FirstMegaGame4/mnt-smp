@@ -422,6 +422,11 @@ hash = "3057e817d0cf56df52544ea1e862d88ad2adcfc3b5510ba5ce96011e3d3663da"
 metafile = true
 
 [[files]]
+file = "mods/extended-drawers.pw.toml"
+hash = "f7ea45e7161aa3de81de9ffd71a02eec2e6e57f563365941474c750afc467f19"
+metafile = true
+
+[[files]]
 file = "mods/extravaganza.pw.toml"
 hash = "b8974aac2ca105e0b2e40dd8e2e0573172ec46e33aace371363a217e752ab134"
 metafile = true
@@ -644,6 +649,21 @@ metafile = true
 [[files]]
 file = "mods/refinedstorage-quartz-arsenal-fabric-1.0.6.pw.toml"
 hash = "7e463c63d1949cce3e79082389e5f0f90bba6749c6a59ff653148d4525e38830"
+metafile = true
+
+[[files]]
+file = "mods/reinforced-barrels.pw.toml"
+hash = "ba78e3c73e07885423a5fabfddf36a79c59ca44aa0123bd789d983551f12306a"
+metafile = true
+
+[[files]]
+file = "mods/reinforced-chests.pw.toml"
+hash = "219ac0d0e6ca75917231f947e473cc17ac399034c59f350e0896f054a7db307a"
+metafile = true
+
+[[files]]
+file = "mods/reinforced-shulker-boxes.pw.toml"
+hash = "f148571405f9b41e4a41ab64091ab61d7496ddfdc3fdaada374776d8273d4690"
 metafile = true
 
 [[files]]

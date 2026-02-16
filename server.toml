@@ -905,3 +905,23 @@ version = "rtASbMPr"
 type = "modrinth"
 id = "automatic-potato"
 version = "oFGgQUPZ"
+
+[[mods]]
+type = "modrinth"
+id = "extended-drawers"
+version = "7ayZB1fH"
+
+[[mods]]
+type = "modrinth"
+id = "reinforced-chests"
+version = "AwY9P3qV"
+
+[[mods]]
+type = "modrinth"
+id = "reinforced-barrels"
+version = "GjI2Vc0z"
+
+[[mods]]
+type = "modrinth"
+id = "reinforced-shulker-boxes"
+version = "PZOyr6QP"
