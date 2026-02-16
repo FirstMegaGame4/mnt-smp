@@ -537,6 +537,16 @@ hash = "c5b89f938dfa04f2734221c368d437aa2a0d02d7b4583c9facb896d9eea38963"
 metafile = true
 
 [[files]]
+file = "mods/ly-veinminer-enchantment.pw.toml"
+hash = "eca078a13b8aa3f7e8ddd3d21f871202f879307fc045b1234adc4839ba15ab6a"
+metafile = true
+
+[[files]]
+file = "mods/magnetic-enchantment.pw.toml"
+hash = "e4c0d6546f2d1d6adaa89642b90df427158128394dbb321afde4da2ce94c4519"
+metafile = true
+
+[[files]]
 file = "mods/mcpitanlib-3.4.3-1.21.1-fabric.pw.toml"
 hash = "e8cb7fe0c118cbea3aea06b2908d323b039c2e2fa5bb08beea90e9751919a5e4"
 metafile = true
@@ -702,6 +712,11 @@ hash = "44fb3af31586f2b325aded9b25e630af23fe10d77d8e71a848e125bff402a8f1"
 metafile = true
 
 [[files]]
+file = "mods/smelting-enchantment.pw.toml"
+hash = "a75ad3663a74ec27b7348a3816798cbb1d5b327c93a196322657f06fa8d7e0b0"
+metafile = true
+
+[[files]]
 file = "mods/sodium-fabric-0.6.13+mc1.21.1.pw.toml"
 hash = "a949276d02697a873502debf048f1d0941dd15755ad120791875ed9ec3636817"
 metafile = true
@@ -774,11 +789,6 @@ metafile = true
 [[files]]
 file = "mods/universalgrid-fabric-1.21.1-0.2.4.pw.toml"
 hash = "7a65f18d7cf774aa8177dccc9449d47d1ba3ca6640b0c34067417b916a0fa2ae"
-metafile = true
-
-[[files]]
-file = "mods/veinminer-fabric-2.4.2.pw.toml"
-hash = "6f3535051c21ba7411253725f60f71b399fcf276ad03b22e927a29099ea40eda"
 metafile = true
 
 [[files]]

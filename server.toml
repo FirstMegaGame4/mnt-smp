@@ -413,11 +413,6 @@ version = "LGF8VScD"
 
 [[mods]]
 type = "modrinth"
-id = "OhduvhIc"
-version = "1NZqjOaM"
-
-[[mods]]
-type = "modrinth"
 id = "OMiCHIwt"
 version = "ByAkqZD1"
 
@@ -925,3 +920,23 @@ version = "GjI2Vc0z"
 type = "modrinth"
 id = "reinforced-shulker-boxes"
 version = "PZOyr6QP"
+
+[[mods]]
+type = "modrinth"
+id = "teabridge"
+version = "wZJZY9gA"
+
+[[mods]]
+type = "modrinth"
+id = "ly-veinminer-enchantment"
+version = "B5T5Qjh7"
+
+[[mods]]
+type = "modrinth"
+id = "smelting-enchantment"
+version = "YgMESWHX"
+
+[[mods]]
+type = "modrinth"
+id = "magnetic-enchantment"
+version = "nugNpYgt"
