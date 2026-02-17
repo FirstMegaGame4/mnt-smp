@@ -940,3 +940,8 @@ version = "YgMESWHX"
 type = "modrinth"
 id = "magnetic-enchantment"
 version = "nugNpYgt"
+
+[[mods]]
+type = "modrinth"
+id = "itemclearlag"
+version = "KvgP4vny"
