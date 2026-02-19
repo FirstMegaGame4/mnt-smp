@@ -504,6 +504,11 @@ hash = "3e00f8f87de800835510498f2c9428c00a523245c711631da4045e929ee398ac"
 metafile = true
 
 [[files]]
+file = "mods/interdimensional-wireless-transmitter.pw.toml"
+hash = "bdf28df599f0de0e154a5379af8c429e532944e2e7ecb16d2979845c6296e403"
+metafile = true
+
+[[files]]
 file = "mods/iris-fabric-1.8.8+mc1.21.1.pw.toml"
 hash = "1e5dd1cee65ee7fd2feeb2d883d0aa40a15627f52a0dc767c134401b538df31b"
 metafile = true

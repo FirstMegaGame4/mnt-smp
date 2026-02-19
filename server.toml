@@ -955,3 +955,8 @@ version = "v0SRTqsp"
 type = "modrinth"
 id = "emitechreborn"
 version = "TJJ53dld"
+
+[[mods]]
+type = "modrinth"
+id = "interdimensional-wireless-transmitter"
+version = "JGnBtAKX"
