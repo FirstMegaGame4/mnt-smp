@@ -397,6 +397,16 @@ hash = "60e6720aafdfa3304b086f7465917179485a3b2463230505728bd24d54113de3"
 metafile = true
 
 [[files]]
+file = "mods/emitechreborn.pw.toml"
+hash = "e1481e23605f0101fd1c53d0330a7bb64f77ce5f39ccdc4af397fcfcd7551913"
+metafile = true
+
+[[files]]
+file = "mods/enchanting-infuser.pw.toml"
+hash = "90be7d447ee592d14f98abe99b9105e3dd4a8f599e0aeb41b0b11e797aabb8c0"
+metafile = true
+
+[[files]]
 file = "mods/enchdesc-fabric-1.21.1-21.1.9.pw.toml"
 hash = "8b37663553d3c819d69256459e94018bcdf5fec3cd2cd1e3060524bff1ef59b5"
 metafile = true

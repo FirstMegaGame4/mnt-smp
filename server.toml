@@ -945,3 +945,13 @@ version = "nugNpYgt"
 type = "modrinth"
 id = "itemclearlag"
 version = "KvgP4vny"
+
+[[mods]]
+type = "modrinth"
+id = "enchanting-infuser"
+version = "v0SRTqsp"
+
+[[mods]]
+type = "modrinth"
+id = "emitechreborn"
+version = "TJJ53dld"
