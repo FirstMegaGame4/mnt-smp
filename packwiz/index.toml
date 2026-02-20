@@ -829,6 +829,11 @@ hash = "ee30e051d0e4a00febc4b15d12a83bff78d6a5b059ddf0281208711a6c137762"
 metafile = true
 
 [[files]]
+file = "mods/textile_backup.pw.toml"
+hash = "7f46f79cd9c81ae5758ba965a862527356e49d84703d45fc1623a798bee2ec8a"
+metafile = true
+
+[[files]]
 file = "mods/totw-modded.pw.toml"
 hash = "f7c14947970c8de4dfbaf32e48cba47cf504fccaf89562d078f7eebab45d1e6a"
 metafile = true
