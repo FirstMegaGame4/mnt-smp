@@ -1,0 +1,13 @@
+name = "ItemClearLag"
+filename = "ICL-1.21.1-fabric-1.5.3b.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/NJcJEXNc/versions/KvgP4vny/ICL-1.21.1-fabric-1.5.3b.jar"
+hash-format = "sha512"
+hash = "73ff1c2b310f47bca65eaafcd7143aaee483ef7888805550456b184a29e1ed154a155dfe7571509aa17d990a063f2f8be0f96db04dd24f6f0c9ea06c9d108816"
+
+[update]
+[update.modrinth]
+mod-id = "NJcJEXNc"
+version = "KvgP4vny"

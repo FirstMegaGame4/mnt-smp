@@ -509,6 +509,11 @@ hash = "bfe0198a67fc0a47274baf8a530b82e62eb2c52136ccbd77e8f9853446583053"
 metafile = true
 
 [[files]]
+file = "mods/itemclearlag.pw.toml"
+hash = "9929d4e2cc8d06e0d7c0356bde38f6747f218f07909798495bd0a43ea158a3b3"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "76a2560989102413693bbfbea83570287b3dce4f6ed40dc69aacbd3268633fe7"
 metafile = true
