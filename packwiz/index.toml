@@ -809,6 +809,11 @@ hash = "04d5cccae8671610cfcff582f7c1b490ba09622a476b53421cd078eb322f27ae"
 metafile = true
 
 [[files]]
+file = "mods/teabridge.pw.toml"
+hash = "00c2bd62e6a32573ca1c0c3ab0c3a2fd3d9a65deba942576e35f0b9e48dc18cf"
+metafile = true
+
+[[files]]
 file = "mods/techreborn.pw.toml"
 hash = "9025e5c9f5032ed316208c509e44f7f3e93d3eb5f3a9379a78eda815ff643acc"
 metafile = true
