@@ -184,6 +184,11 @@ hash = "252d64d837d274aa46b00729f136d5900a5fb029f8c25f11f280a9b34da6add1"
 metafile = true
 
 [[files]]
+file = "mods/charm-forked.pw.toml"
+hash = "a1c4736d7ab8e14ad7f537197187fe9f6a67388de80bb634a21c296cda070326"
+metafile = true
+
+[[files]]
 file = "mods/charm-of-undying.pw.toml"
 hash = "65976f27dd6de19c602d836a0327833d3ba201ae763e248bd642370b0c8b5dad"
 metafile = true
