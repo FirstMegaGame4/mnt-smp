@@ -134,6 +134,11 @@ hash = "d855e213814f89e1975c1817a14ac2aa64a30efcce707b2898ede523f9a1c9d4"
 metafile = true
 
 [[files]]
+file = "mods/burning.pw.toml"
+hash = "34f1fcff9879308be2a3ef77f5d4cea379cd065ad986956d43aaa208c2073751"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "941c3f358ef74f4fc99727e550106b8905d77cb4971321fd8ca4406e33b704a6"
 metafile = true
