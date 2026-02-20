@@ -1,0 +1,13 @@
+name = "Info+ 📑"
+filename = "infoplus-1.0.0-1.21.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/oRgKGxhT/versions/TJ0gIh5X/infoplus-1.0.0-1.21.1-fabric.jar"
+hash-format = "sha512"
+hash = "e1aae8001972edff66263c386f6a0e5f38290fed4dd9c58259a8d2e5a9e506fe5d64ed20bf9f180cf873f6f742db8ee0b03b89217e0297405d020da7b9944785"
+
+[update]
+[update.modrinth]
+mod-id = "oRgKGxhT"
+version = "TJ0gIh5X"
