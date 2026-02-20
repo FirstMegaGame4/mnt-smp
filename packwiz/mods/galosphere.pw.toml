@@ -1,0 +1,13 @@
+name = "Galosphere"
+filename = "Galosphere-1.21.1-1.5.3-Fabrirc.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Kn7xyQ1v/versions/mYwfUamv/Galosphere-1.21.1-1.5.3-Fabrirc.jar"
+hash-format = "sha512"
+hash = "9fe390426c2f5cd477768666245f33ea7a5611f98468c0849361d0d84f53621c617f4bf0edf204ae524a4ff17803e41deb33e600f5f3b87c4450bf2dc4f9304c"
+
+[update]
+[update.modrinth]
+mod-id = "Kn7xyQ1v"
+version = "mYwfUamv"
