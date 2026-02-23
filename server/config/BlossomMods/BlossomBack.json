@@ -3,13 +3,13 @@
     "enabled": true,
     "teleportation": null,
     "standStill": 5,
-    "cooldown": 120
+    "cooldown": 12
   },
   "lastDeath": {
     "enabled": true,
     "teleportation": null,
     "standStill": 5,
-    "cooldown": 120
+    "cooldown": 12
   },
   "separateCooldowns": true,
   "persistBack": true,
