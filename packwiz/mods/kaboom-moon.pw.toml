@@ -1,0 +1,13 @@
+name = "Kaboom Moon"
+filename = "KaboomMoon-1.21.1-NeoForge-Fabric-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/YakAj9hX/versions/ZX5ZpU0N/KaboomMoon-1.21.1-NeoForge-Fabric-1.0.1.jar"
+hash-format = "sha512"
+hash = "f7dc1c03619121a25957d6420224d5988b96de4a944ad6b9c81e7b0ee9a687be6f60a4f2df456d721a0f00aa6008c8fb1ec09eba7e44d68bd9a9facb9d6255da"
+
+[update]
+[update.modrinth]
+mod-id = "YakAj9hX"
+version = "ZX5ZpU0N"

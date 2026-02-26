@@ -9,9 +9,10 @@ services:
       - "25565:25565"
     environment:
       EULA: "TRUE"
+      ENABLE_WHITELIST: "TRUE"
       TYPE: "FABRIC"
       VERSION: "1.21.1"
-      MEMORY: "4096M"
+      MEMORY: "4092M"
       MAX_PLAYERS: "4"
       MOTD: "MNT Survival MultiPlayer"
       USE_AIKAR_FLAGS: "true"
@@ -19,9 +20,8 @@ services:
       TZ: "Europe/Paris"
       DIFFICULTY: "2"
       FORCE_GAMEMODE: "true"
-      VIEW_DISTANCE: "16"
+      VIEW_DISTANCE: "12"
       SPAWN_PROTECTION: "0"
-      PACKWIZ_URL: "https://raw.githubusercontent.com/FirstMegaGame4/mnt-smp/refs/heads/ma\
-        in/packwiz/pack.toml"
+      PACKWIZ_URL: "https://raw.githubusercontent.com/FirstMegaGame4/mnt-smp/refs/heads/main/packwiz/pack.toml"
     volumes:
       - "./server:/data"

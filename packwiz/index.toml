@@ -254,6 +254,11 @@ hash = "eecdc8127f69c74ff55fd183d1f1d7d5ef3e714d73845a239fe9e086147a67b1"
 metafile = true
 
 [[files]]
+file = "mods/corgilib.pw.toml"
+hash = "0381a70aa3e0234278892a6c19948d40c2345b58407bd757f19768ac07488f2a"
+metafile = true
+
+[[files]]
 file = "mods/coroutil.pw.toml"
 hash = "363b6a77d7f7802a58aecd51e932745b0ab663a5810a681b654e2f3584ac11b1"
 metafile = true
@@ -289,8 +294,18 @@ hash = "593f90737c82fd6496b4b27fce7d7bc8d77ce0d4443668290b99ad78e835eb77"
 metafile = true
 
 [[files]]
+file = "mods/data-anchor.pw.toml"
+hash = "56fe38665725e5395991777ad79e63961851d2666880461305b95f71d03fe996"
+metafile = true
+
+[[files]]
 file = "mods/deeperdarker.pw.toml"
 hash = "d056036f71ac0fe66147f415e0142c1fd8889c065b7f1e5880ad3d46c583136f"
+metafile = true
+
+[[files]]
+file = "mods/draconic-archers-moon-bundle.pw.toml"
+hash = "f25d74d86e6d1bb17192814612b5197f788833b5c1ba0663688d82c3d1998525"
 metafile = true
 
 [[files]]
@@ -329,6 +344,11 @@ hash = "b1f89407254a20cde6c60994a6315bd841b7f562669a1d29b436ec97463ff2ae"
 metafile = true
 
 [[files]]
+file = "mods/edf-remastered.pw.toml"
+hash = "ccd5ce47b97cdde28dbea9c3b3d49b5b89229ce5e260311688eb4a41182e5b78"
+metafile = true
+
+[[files]]
 file = "mods/emi.pw.toml"
 hash = "60e6720aafdfa3304b086f7465917179485a3b2463230505728bd24d54113de3"
 metafile = true
@@ -349,6 +369,21 @@ hash = "f7bb88ccf59b362d533cef59b28b0cab3ef017ad7462dfbe0daae2a0aa30032e"
 metafile = true
 
 [[files]]
+file = "mods/ender-moon.pw.toml"
+hash = "91195d83425abdc8ba2ead9159d6570dcf9245f984fcb3692cc0c36f2a14e941"
+metafile = true
+
+[[files]]
+file = "mods/ender-villages.pw.toml"
+hash = "5e0a0e259460582d1348a248c20fea40b4edfb880659d1ef445012ab143e8f97"
+metafile = true
+
+[[files]]
+file = "mods/ender-zoology.pw.toml"
+hash = "b2e70344a49d1f62fe4891ad6bf694ed81755ca2ccc401741a027c2287bfea4a"
+metafile = true
+
+[[files]]
 file = "mods/endrem.pw.toml"
 hash = "389c30cfae2e35405bc8efe5c5e1eb853ab8b3e031d45e889b597c581632d420"
 metafile = true
@@ -366,6 +401,11 @@ metafile = true
 [[files]]
 file = "mods/energized-power.pw.toml"
 hash = "ea869fff2fc8263be617627e938fb70df142ab0e22026119c869516aa681a8a6"
+metafile = true
+
+[[files]]
+file = "mods/enhanced-celestials.pw.toml"
+hash = "198589afdd95c440b1674b8b951d7e6ed6e087b5d32c1dc372a9ab30a31054ba"
 metafile = true
 
 [[files]]
@@ -541,6 +581,11 @@ metafile = true
 [[files]]
 file = "mods/jei.pw.toml"
 hash = "76a2560989102413693bbfbea83570287b3dce4f6ed40dc69aacbd3268633fe7"
+metafile = true
+
+[[files]]
+file = "mods/kaboom-moon.pw.toml"
+hash = "079504a7b12eda19fd2956b8b87adf80a626709648a38c6735045b23171774bb"
 metafile = true
 
 [[files]]
