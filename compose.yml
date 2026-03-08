@@ -12,7 +12,7 @@ services:
       ENABLE_WHITELIST: "TRUE"
       TYPE: "FABRIC"
       VERSION: "1.21.1"
-      MEMORY: "4092M"
+      MEMORY: "4096M"
       MAX_PLAYERS: "4"
       MOTD: "MNT Survival MultiPlayer"
       USE_AIKAR_FLAGS: "true"
