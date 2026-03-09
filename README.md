@@ -48,6 +48,7 @@
 - [Comforts](https://modrinth.com/mod/SaCpeal4) - Adds sleeping bags and hammocks for, respectively, portability and turning day to night, without setting new spawns. Comes in 16 different colors!
 - [Concurrent Chunk Management Engine (Fabric)](https://modrinth.com/mod/VSNURh3q) - A Fabric mod designed to improve the chunk performance of Minecraft.
 - [Controlling](https://modrinth.com/mod/xv94TkTM) - Adds a search bar to the Key-Bindings menu
+- [CorgiLib](https://modrinth.com/mod/ziOp6EO8) - A library mod containing code used across Corgi Taco's mods.
 - [CoroUtil](https://modrinth.com/mod/rLLJ1OZM) - Shared library mod for Corosus's mods
 - [CraftTweaker](https://modrinth.com/mod/Xg35A4rS) - CraftTweaker allows modpacks and servers to customize the game. With CraftTweaker you can change recipes, script events, add new commands and even change item properties!
 - [CreativeCore](https://modrinth.com/mod/OsZiaDHq) - A core mod
@@ -55,22 +56,33 @@
 - [Cut Through](https://modrinth.com/mod/Dk6su9JN) - Cleanly swing through transparent blocks like tall grass to hit mobs without breaking said block.
 - [Dark Loading Screen](https://modrinth.com/mod/h3XWIuzM) - Makes the loading screen darker.
 - [Dark Utilities](https://modrinth.com/mod/CkqTAIaP) - Expansive content mod which adds a little bit of everything. 
+- [Data Anchor](https://modrinth.com/mod/z2XEADmE) - Simple mod with helpful data attaching and networking utilities including attaching data to entities, chunks, players, and worlds with low boilerplate code. Its own system built from the ground up for multiloader support.
 - [Deeper and Darker](https://modrinth.com/mod/fnAffV0n) - A Minecraft mod which features more blocks, items, armors, and hidden mysteries to complement the Deep Dark biome.
+- [Draconic Archer's Moon Bundle](https://modrinth.com/mod/ay7BmJIa) - Add-ons for Enhanced Celestials all bundled into one
 - [Dungeons and Taverns](https://modrinth.com/mod/tpehi7ww) - A Structure Datapack adding dungeons, taverns and other structures to find while you explore the world.
 - [Dungeons and Taverns Ancient City Overhaul](https://modrinth.com/mod/DNuNq5bb) - Standalone Splinter version of Dungeons and Taverns Ancient City Overhaul
 - [Dungeons and Taverns Pillager Outpost Overhaul](https://modrinth.com/mod/QIt10I7z) - Standalone split version of the Pillager Outpost Overhaul from Dungeons and Taverns
 - [Dungeons and Taverns Stronghold Overhaul](https://modrinth.com/mod/rYocd2LE) - This Datapack, the Standalone version of Dungeons and Taverns Overhaul of the Stronghold, Overhauls the Stronghold from the ground up With 417 Different rooms and 5 sub stronghold types
 Fair warning, your world will Freeze Upon first Structure generation.
 - [Dungeons and Taverns Swamp Hut Overhaul](https://modrinth.com/mod/nWSeFpQt) - This Splinter Standalone version of Dungeons and Tavern adds the Swamp Hut rework. Adding 2 variants, an loot chest, an brewing stand and an bed
+- [Dungeons and Taverns Woodland Mansion Overhaul](https://modrinth.com/mod/3GfxWFCy) - This Mod Overhauls the Woodland Mansion with 184 different rooms and 8 type of rooms. adding a basement layer and a road leading away from the woodland mansion
 - [EMI](https://modrinth.com/mod/fRiHVvU7) - A featureful and accessible item and recipe viewer
+- [EMI Enchanting](https://modrinth.com/mod/wbWoo11W) - EMI Plugin that gives basic enchantment information; valid items, exlcusions, etc.
+- [EMI Loot](https://modrinth.com/mod/qbbO7Jns) - A loot drop (chest, block, entity) plugin for the EMI Recipe and Item viewer.
+- [EMIffect](https://modrinth.com/mod/705gWllI) - EMI addon that appends status effects in EMI and provides information about each status effect.
 - [EmiTechReborn](https://modrinth.com/mod/MF8Uygnx) - Addon for EMI adding support for TechReborn. Adds support for various crafts and generators.
 - [Enchanting Infuser](https://modrinth.com/mod/ePv85y52) - An all new enchanting table: Choose your enchantments for fair prices! Plus no more randomness!
 - [Enchantment Descriptions](https://modrinth.com/mod/UVtY3ZAC) - Provides a way to get enchantment descriptions from enchanted books.
 - [End Remastered](https://modrinth.com/mod/ZJTGwAND) - Make your journey to the End more Challenging and Engaging with End Remastered!
+- [Ender Dragon Fight Remastered](https://modrinth.com/mod/HQsBdHGd) - A difficulty increase of Minecraft's final boss, with a focus on a somewhat Vanilla feel.
+- [Ender Moon](https://modrinth.com/mod/jcD5fwN4) - This add-on for Enhanced Celestials adds an Ender Moon
+- [Ender Villages](https://modrinth.com/mod/NdeIraZc) - I have added a new type of village with new villagers in the end with new trades new professions and new structures
+- [Ender Zoology](https://modrinth.com/mod/CUQhzQjg) - Vanilla themed monsters to add some difficulty to the game. A remake of Ender Zoo.
 - [Energized Power](https://modrinth.com/mod/6pku8gW1) - This is a technology Forge/NeoForge/Fabric mod with many machines.
 - [Energized Power - Biomes O' Plenty](https://modrinth.com/mod/pFrEfXHl) - Compatibility between Energized Power and Biomes O' Plenty
 - [Energized Power - The Aether](https://modrinth.com/mod/3tCbCCSA) - Compatibility between Energized Power and The Aether
 - [Enhanced Block Entities](https://modrinth.com/mod/OVuFYfre) - Reduce block entity FPS lag with almost no compromises, and improve their visuals
+- [Enhanced Celestials](https://modrinth.com/mod/2rL16t1O) - A mod adding new Lunar Events like blood moons and harvest moons!
 - [Explorer's Compass](https://modrinth.com/mod/RV1qfVQ8) - Allows you to locate structures anywhere in the world.
 - [Explorify](https://modrinth.com/mod/HSfsxuTo) - A simplistic, vanilla-friendly collection of new structures.
 - [Explosive Enhancement](https://modrinth.com/mod/OSQ8mw2r) - Makes the explosion animation look cooler.
@@ -88,6 +100,7 @@ Fair warning, your world will Freeze Upon first Structure generation.
 - [Forge Config API Port](https://modrinth.com/mod/ohNO6lps) - NeoForge's & Forge's config systems provided to other modding ecosystems. Designed for a multiloader architecture.
 - [Freecam](https://modrinth.com/mod/XeEZ3fK2) - A highly customizable freecam mod.
 - [Friends&Foes (Fabric/Quilt)](https://modrinth.com/mod/POQ2i9zu) - Adds outvoted and forgotten mobs from the mob vote, expanding on their original concepts and adding new vanilla-like features. The mod includes: Copper Golem, Crab, Glare, Moobloom, Iceologer, Rascal, Tuff Golem, Wildfire, Illusioner, Zombie Horse
+- [Fzzy Config](https://modrinth.com/mod/hYykXjDp) - Config API with automatic GUIs, powerful validation options, server-client sync, and more!
 - [Galosphere](https://modrinth.com/mod/Kn7xyQ1v) - An expansion for caves, including new biomes, mobs, and more.
 - [Geckolib](https://modrinth.com/mod/8BmcQJ2H) - A 3D animation library for entities, blocks, items, armor, and more!
 - [GlitchCore](https://modrinth.com/mod/s3dmwKy5) - A library mod aimed at abstracting mod loaders and providing various utilities for our mods.
@@ -106,6 +119,7 @@ Fair warning, your world will Freeze Upon first Structure generation.
 - [Item Collectors](https://modrinth.com/mod/y9vDr4Th) - Item Collectors adds Collectors which collect items in a specified range!
 - [ItemClearLag](https://modrinth.com/mod/NJcJEXNc) - ItemClearLag (ICL) is a Minecraft mod designed to improve server performance by periodically removing items from the ground.
 - [Just Enough Items (JEI)](https://modrinth.com/mod/u6dRKJwZ) - View Items and Recipes
+- [Kaboom Moon](https://modrinth.com/mod/YakAj9hX) - An add-on for Enhanced Celestials that adds a Creeper-spawning Moon
 - [Krypton](https://modrinth.com/mod/fQEb0iXm) - A mod to optimize the Minecraft networking stack
 - [Lavender](https://modrinth.com/mod/D5h9NKNI) - A Guidebook API and alternative to Patchouli
 - [Legendary Tooltips](https://modrinth.com/mod/atHH8NyV) - Give your rare items a fancier tooltip! Also adds additional tooltip configuration options.
@@ -198,7 +212,5 @@ place.
 - [YUNG's Better Jungle Temples](https://modrinth.com/mod/z9Ve58Ih) - A complete redesign of Minecraft's jungle temples!
 - [YUNG's Better Nether Fortresses](https://modrinth.com/mod/Z2mXHnxP) - A complete redesign of Minecraft's Nether fortresses!
 - [YUNG's Better Ocean Monuments](https://modrinth.com/mod/3dT9sgt4) - A complete redesign of Minecraft's ocean monuments!
-- [YUNG's Better Strongholds](https://modrinth.com/mod/kidLKymU) - A complete redesign of Minecraft's strongholds!
-- [YUNG's Better Witch Huts](https://modrinth.com/mod/t5FRdP87) - Adds overhauled witch huts to swamps!
 - [YUNG's Cave Biomes](https://modrinth.com/mod/cs7iGVq1) - Adds new vanilla+ cave biomes and underground content!
 - [Zoomify](https://modrinth.com/mod/w7ThoJFB) - A zoom mod with infinite customizability.
