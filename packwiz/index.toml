@@ -179,6 +179,11 @@ hash = "941c3f358ef74f4fc99727e550106b8905d77cb4971321fd8ca4406e33b704a6"
 metafile = true
 
 [[files]]
+file = "mods/cable-tiers.pw.toml"
+hash = "b28ba71b1f8b1b4b6c6400d2dc8537feff2bc5a97cd24d38714e4880d9def96e"
+metafile = true
+
+[[files]]
 file = "mods/capes.pw.toml"
 hash = "c899acdc322ab52800a6e305a16427297f411c1c39d97983be96e8b6a34e157c"
 metafile = true
