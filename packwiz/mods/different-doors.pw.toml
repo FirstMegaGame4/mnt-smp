@@ -1,0 +1,13 @@
+name = "Different Doors"
+filename = "differentdoors-fabric-1.21.1-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qKALU9V7/versions/iLGYMdEK/differentdoors-fabric-1.21.1-1.1.0.jar"
+hash-format = "sha512"
+hash = "3b5b93bdfc3fc2f01f0e236777fe988ee519f97c6c58829b16a567932afb99525ad4180551311866f3a54b6eaf401639323930aa349dcffa7fd7ea80c1796b02"
+
+[update]
+[update.modrinth]
+mod-id = "qKALU9V7"
+version = "iLGYMdEK"

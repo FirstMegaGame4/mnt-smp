@@ -314,6 +314,11 @@ hash = "d056036f71ac0fe66147f415e0142c1fd8889c065b7f1e5880ad3d46c583136f"
 metafile = true
 
 [[files]]
+file = "mods/different-doors.pw.toml"
+hash = "67c16b9a0bc4099d588dfe9da761ca7b53434df3833bd21b936c848eee9dc928"
+metafile = true
+
+[[files]]
 file = "mods/draconic-archers-moon-bundle.pw.toml"
 hash = "f25d74d86e6d1bb17192814612b5197f788833b5c1ba0663688d82c3d1998525"
 metafile = true
