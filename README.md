@@ -32,6 +32,7 @@
 - [Brightness Plus](https://modrinth.com/mod/Q5HY7g5g) - Allows you to set your brightness beyond default levels with enhanced controls
 - [Building Wands](https://modrinth.com/mod/XkisZUfp) - Building wands with different modes
 - [Burning](https://modrinth.com/mod/DZV7EZ2D) - A library mod to access and transfer the burning fuel between furnace-like blocks of all mods.
+- [Cable Tiers](https://modrinth.com/mod/UsLNxQgK) - Adds better Exporter, Importer, Constructor, Destructor, Disk Interface, Autocrafter, Interface, Requester from Refined Storage and RSRequestify
 - [Capes](https://modrinth.com/mod/89Wsn8GD) - Lets you use capes from OptiFine, LabyMod and other cape mods
 - [Cardinal Components API](https://modrinth.com/mod/K01OU20C) - A data attachment API that is easy, modular, and extremely fast.
 - [Carry On](https://modrinth.com/mod/joEfVgkn) - Carry On allows you to pick up Tile Entities and Mobs and carry them around!
@@ -47,6 +48,7 @@
 - [Clumps](https://modrinth.com/mod/Wnxd13zP) - Clumps XP orbs together to reduce lag
 - [Comforts](https://modrinth.com/mod/SaCpeal4) - Adds sleeping bags and hammocks for, respectively, portability and turning day to night, without setting new spawns. Comes in 16 different colors!
 - [Concurrent Chunk Management Engine (Fabric)](https://modrinth.com/mod/VSNURh3q) - A Fabric mod designed to improve the chunk performance of Minecraft.
+- [Continuity](https://modrinth.com/mod/1IjD5062) - A Minecraft mod that allows for efficient connected textures
 - [Controlling](https://modrinth.com/mod/xv94TkTM) - Adds a search bar to the Key-Bindings menu
 - [CorgiLib](https://modrinth.com/mod/ziOp6EO8) - A library mod containing code used across Corgi Taco's mods.
 - [CoroUtil](https://modrinth.com/mod/rLLJ1OZM) - Shared library mod for Corosus's mods
@@ -58,6 +60,7 @@
 - [Dark Utilities](https://modrinth.com/mod/CkqTAIaP) - Expansive content mod which adds a little bit of everything. 
 - [Data Anchor](https://modrinth.com/mod/z2XEADmE) - Simple mod with helpful data attaching and networking utilities including attaching data to entities, chunks, players, and worlds with low boilerplate code. Its own system built from the ground up for multiloader support.
 - [Deeper and Darker](https://modrinth.com/mod/fnAffV0n) - A Minecraft mod which features more blocks, items, armors, and hidden mysteries to complement the Deep Dark biome.
+- [Different Doors](https://modrinth.com/mod/qKALU9V7) - A set of versatile doors, perfect for any build style.
 - [Draconic Archer's Moon Bundle](https://modrinth.com/mod/ay7BmJIa) - Add-ons for Enhanced Celestials all bundled into one
 - [Dungeons and Taverns](https://modrinth.com/mod/tpehi7ww) - A Structure Datapack adding dungeons, taverns and other structures to find while you explore the world.
 - [Dungeons and Taverns Ancient City Overhaul](https://modrinth.com/mod/DNuNq5bb) - Standalone Splinter version of Dungeons and Taverns Ancient City Overhaul
@@ -188,6 +191,7 @@ Fair warning, your world will Freeze Upon first Structure generation.
 - [Traveler's Backpack](https://modrinth.com/mod/rlloIFEV) - Unique and upgradeable backpacks with customisation, Curios API/Trinkets integration and more!
 - [Traveler's Titles](https://modrinth.com/mod/JtifUr64) - Epic, RPG-like titles when entering biomes & dimensions!
 - [Trinkets](https://modrinth.com/mod/5aaWibi9) - A data-driven accessory mod
+- [Universal Grid](https://modrinth.com/mod/kpMfA312) - Adds a Universal Grid for Refined Storage
 - [Veinminer Enchantment](https://modrinth.com/mod/EfcAYyUG) - New enchantment for pickaxes to mine multiple matching connected ores!
 - [Visual Workbench](https://modrinth.com/mod/kfqD1JRw) - Items stay inside of crafting tables and are also rendered on top. It's really fancy!
 - [Visuality](https://modrinth.com/mod/rI0hvYcd) - Little visual improvements by adding a bunch of new particles.
