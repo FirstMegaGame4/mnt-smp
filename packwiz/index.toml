@@ -969,6 +969,11 @@ hash = "860812150cb54f0d9ee1bce7b72798b6cc5f752bb05709f0c60231d054ec281d"
 metafile = true
 
 [[files]]
+file = "mods/universal-grid.pw.toml"
+hash = "738b7fed7cbbdff93a22e19637e40334fcb4b8e99520e2d1d7ecfb167293eb7d"
+metafile = true
+
+[[files]]
 file = "mods/visual-workbench.pw.toml"
 hash = "37c8746fe9057612cd4f21e1221760e8dd2f78ce6b38a237b0ac925de21541e0"
 metafile = true
