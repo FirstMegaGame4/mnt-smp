@@ -12,7 +12,7 @@ services:
       ENABLE_WHITELIST: "TRUE"
       TYPE: "FABRIC"
       VERSION: "1.21.1"
-      MEMORY: "4096M"
+      MEMORY: "8192M"
       MAX_PLAYERS: "4"
       MOTD: "MNT Survival MultiPlayer"
       USE_AIKAR_FLAGS: "true"
@@ -24,4 +24,4 @@ services:
       SPAWN_PROTECTION: "0"
       PACKWIZ_URL: "https://raw.githubusercontent.com/FirstMegaGame4/mnt-smp/refs/heads/main/packwiz/pack.toml"
     volumes:
-      - "./server:/data"
+      - "./server:/data:Z"

@@ -74,7 +74,7 @@ Fair warning, your world will Freeze Upon first Structure generation.
 - [EMI Loot](https://modrinth.com/mod/qbbO7Jns) - A loot drop (chest, block, entity) plugin for the EMI Recipe and Item viewer.
 - [EMIffect](https://modrinth.com/mod/705gWllI) - EMI addon that appends status effects in EMI and provides information about each status effect.
 - [EmiTechReborn](https://modrinth.com/mod/MF8Uygnx) - Addon for EMI adding support for TechReborn. Adds support for various crafts and generators.
-- [Enchanting Infuser](https://modrinth.com/mod/ePv85y52) - An all new enchanting table: Choose your enchantments for fair prices! Plus no more randomness!
+- [Enchanting Infuser](https://modrinth.com/mod/ePv85y52) - An all-new enchanting table for choosing your enchantments at fair prices without the randomness.
 - [Enchantment Descriptions](https://modrinth.com/mod/UVtY3ZAC) - Provides a way to get enchantment descriptions from enchanted books.
 - [End Remastered](https://modrinth.com/mod/ZJTGwAND) - Make your journey to the End more Challenging and Engaging with End Remastered!
 - [Ender Dragon Fight Remastered](https://modrinth.com/mod/HQsBdHGd) - A difficulty increase of Minecraft's final boss, with a focus on a somewhat Vanilla feel.
@@ -116,7 +116,9 @@ Fair warning, your world will Freeze Upon first Structure generation.
 - [Illager Invasion](https://modrinth.com/mod/jSV9w0J5) - The illagers are back! Be ready to fight new foes. A port of Illager Expansion.
 - [Immersive Aircraft](https://modrinth.com/mod/x3HZvrj6) - A bunch of rustic aircraft to travel, transport, and explore!
 - [Immersive Machinery](https://modrinth.com/mod/kGP3J2TW) - A bunch of rustic machinery to transport, mine, and automate things, while staying close to the vanilla style.
-- [Info+ 📑](https://modrinth.com/mod/oRgKGxhT) - Displays detailed server system info (CPU, RAM, GPU, OS, Java, Minecraft, Loader) directly in-game. Useful for debugging, tech support, and verifying server/client environments
+- [Info+ 📑](https://modrinth.com/mod/oRgKGxhT) - Show detailed system information directly in Minecraft chat.
+View CPU, RAM, GPU, OS, Java, Minecraft, and Loader details.
+Built for debugging, player support, server checks, and modpack troubleshooting.
 - [Interdimensional Wireless Transmitter](https://modrinth.com/mod/nQR8XALE) - Adds a Wireless Transmitter with infinite range across all dimensions
 - [Iris Shaders](https://modrinth.com/mod/YL57xq9U) - A modern shader pack loader for Minecraft intended to be compatible with existing OptiFine shader packs
 - [Item Collectors](https://modrinth.com/mod/y9vDr4Th) - Item Collectors adds Collectors which collect items in a specified range!
@@ -127,12 +129,13 @@ Fair warning, your world will Freeze Upon first Structure generation.
 - [Lavender](https://modrinth.com/mod/D5h9NKNI) - A Guidebook API and alternative to Patchouli
 - [Legendary Tooltips](https://modrinth.com/mod/atHH8NyV) - Give your rare items a fancier tooltip! Also adds additional tooltip configuration options.
 - [Linked Chests](https://modrinth.com/mod/Mr2x2AUf) - Effortless linked storage — access the same inventory from any chest, any place, any time!
-- [Lithium](https://modrinth.com/mod/gvQqBUqZ) - No-compromises game logic optimization mod. Well suited for clients and servers of all kinds. Now available for Fabric and NeoForge!
+- [Lithium](https://modrinth.com/mod/gvQqBUqZ) - No-compromises game logic optimization mod, useful for both single-player games and multi-player servers.
 - [Lootr](https://modrinth.com/mod/EltpO5cN) - A mod that makes it so nobody misses out on Loot! All loot chests are instanced per player and visually unique.
 - [Magnetic Enchantment](https://modrinth.com/mod/cqIcXVf5) - New enchantment for tools and weapons thats auto pickup the mined block or loot items!
 - [MCPitanLib](https://modrinth.com/mod/uNRoUnGT) - Pitan's Minecraft Mod Library (Architectury API)
 
 - [MixinTrace](https://modrinth.com/mod/sGmHWmeL) - Adds a list of mixins in the stack trace to crash reports 
+- [Mob Lassos](https://modrinth.com/mod/ftOBbnu8) - Gotta catch 'em all!
 - [Mod Menu](https://modrinth.com/mod/mOgUt4GM) - Adds a mod menu to view the list of mods you have installed.
 - [ModernFix](https://modrinth.com/mod/nmDcB62a) - All-in-one mod that improves performance, reduces memory usage, and fixes many bugs. Compatible with all your favorite performance mods!
 - [Moonlight Lib](https://modrinth.com/mod/twkfQtEc) - dynamic data pack and registration, villager activities, custom map marker and a lot more
@@ -150,7 +153,7 @@ Fair warning, your world will Freeze Upon first Structure generation.
 - [Powah! ReFabric](https://modrinth.com/mod/ZmmmAZp7) - Fabric version of 1.21.1 Powah - A tech mod that adds various ways to generate, store and transmit Energy.
 - [Prickle](https://modrinth.com/mod/aaRl8GiW) - Prickle is a JSON based configuration file format brought to Minecraft.
 - [Prism](https://modrinth.com/mod/1OE8wbN0) - A library all about color! Provides lots of color-related functionality for dependent mods.
-- [Puzzles Lib](https://modrinth.com/mod/QAGBst4M) - Why it's called Puzzles, you ask? That's the puzzle!
+- [Puzzles Lib](https://modrinth.com/mod/QAGBst4M) - Why is it called Puzzles? That's the puzzle.
 - [Reactive Music](https://modrinth.com/mod/Bqnfeesx) - Refactors Minecraft's music to be dynamic and reactive, including new fantasy and celtic tracks to give an air of adventure.
 - [Reborn Core](https://modrinth.com/mod/3NCrJdj3) - Reborn Core is a library used for many of the Tech Reborn team's mods
 - [Reese's Sodium Options](https://modrinth.com/mod/Bh37bMuy) - Alternative Options Menu for Sodium
@@ -168,7 +171,7 @@ Fair warning, your world will Freeze Upon first Structure generation.
 - [Show Me Your Skin!](https://modrinth.com/mod/bD7YqcA3) - A mod to hide or customize armor rendering. 
 - [Silk](https://modrinth.com/mod/aTaCgKLW) - Kotlin Minecraft API - targetting Fabric, Quilt and Paper
 - [Smelting Enchantment](https://modrinth.com/mod/NhwceuDF) - A new enchantment for pickaxes thats auto smelt ores!
-- [Sodium](https://modrinth.com/mod/AANobbMI) - The fastest and most compatible rendering optimization mod for Minecraft. Now available for both NeoForge and Fabric!
+- [Sodium](https://modrinth.com/mod/AANobbMI) - A high-performance rendering engine replacement for Minecraft, which greatly improves frame rates and reduces micro-stutter.
 - [Sodium Extras](https://modrinth.com/mod/vqqx0QiE) - An add-on mod for Sodium that adds new features and customization.
 - [Sodium Options API](https://modrinth.com/mod/Es5v4eyq) - Config API for adding Sodium options with a better categories menu
 - [Soul Ice](https://modrinth.com/mod/ngBlYV53) - A mod about the next in Ice Tech
@@ -217,4 +220,4 @@ place.
 - [YUNG's Better Nether Fortresses](https://modrinth.com/mod/Z2mXHnxP) - A complete redesign of Minecraft's Nether fortresses!
 - [YUNG's Better Ocean Monuments](https://modrinth.com/mod/3dT9sgt4) - A complete redesign of Minecraft's ocean monuments!
 - [YUNG's Cave Biomes](https://modrinth.com/mod/cs7iGVq1) - Adds new vanilla+ cave biomes and underground content!
-- [Zoomify](https://modrinth.com/mod/w7ThoJFB) - A zoom mod with infinite customizability.
+- [Zoomify (Zoom)](https://modrinth.com/mod/w7ThoJFB) - A zoom mod with infinite customizability.
