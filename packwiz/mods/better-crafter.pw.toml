@@ -1,0 +1,13 @@
+name = "Better crafter"
+filename = "better-crafter-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/raTBUd9E/versions/JMYXPOIZ/better-crafter-1.0.0.jar"
+hash-format = "sha512"
+hash = "34260347b6df0eb6a902c9dd88e4976805e69d22c310f7b1ea2f5d8329926288d65333760378a7d32c88175fcf9069af96c25a04f7f345884b6e8d9fed36b951"
+
+[update]
+[update.modrinth]
+mod-id = "raTBUd9E"
+version = "JMYXPOIZ"

@@ -99,6 +99,11 @@ hash = "f6dde00965d11938aa025000fb76ab1b695be0627e08f503857ba9ee871a172d"
 metafile = true
 
 [[files]]
+file = "mods/better-crafter.pw.toml"
+hash = "f201e4b6fd5480326667584b6ed330e097d637a7bb8802f56d1743d7915d3c3e"
+metafile = true
+
+[[files]]
 file = "mods/better-third-person.pw.toml"
 hash = "dd18db1413980ef467ac2e86c7e5f3cef26d366119f43121204a442583e7c0bd"
 metafile = true

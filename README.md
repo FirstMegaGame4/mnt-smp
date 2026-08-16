@@ -17,6 +17,7 @@
 - [Balm](https://modrinth.com/mod/MBAkmtvl) - Abstraction Layer for Multi-Loader Mods
 - [BCLib](https://modrinth.com/mod/BgNRHReB) - A Library Mod for the BetterX Team
 - [Better Archeology](https://modrinth.com/mod/zCh7omyG) - Discover artifacts & fossils by encountering new structures that'll enhance your adventure and exploration!
+- [Better crafter](https://modrinth.com/mod/raTBUd9E) - Adds a Smart Crafter block that automates crafting with recipe locking patterns and intelligent inventory management for redstone systems.
 - [Better Third Person](https://modrinth.com/mod/G1s2WpNo) - Improves third person camera view.
 - [BetterEnd](https://modrinth.com/mod/gc8OEnCC) - New Biomes, mysterious rituals and Mobs for your End
 - [BetterF3](https://modrinth.com/mod/8shC1gFX) - BetterF3 is a mod that replaces Minecraft's original debug HUD with a highly customizable, more human-readable HUD.
