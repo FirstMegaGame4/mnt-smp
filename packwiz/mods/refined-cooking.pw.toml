@@ -1,0 +1,13 @@
+name = "Refined Cooking"
+filename = "refinedcooking-fabric-1.21.1-6.4.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/AOuwe9He/versions/ugk9t6rO/refinedcooking-fabric-1.21.1-6.4.1.jar"
+hash-format = "sha512"
+hash = "438f247797d2999e245ad451add84ea1f26993f9d6e13dd1d8a9f9cad44c507b6226f008c2a5763ce8422fb7479bf8f6d7e862c08af3c4e6f57e35eb5f31840d"
+
+[update]
+[update.modrinth]
+mod-id = "AOuwe9He"
+version = "ugk9t6rO"

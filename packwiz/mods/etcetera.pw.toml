@@ -1,0 +1,13 @@
+name = "Etcetera"
+filename = "etcetera-fabric-1.21.1-2.2.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/TaRVOwJr/versions/7TIEj7L3/etcetera-fabric-1.21.1-2.2.7.jar"
+hash-format = "sha512"
+hash = "d407286521fc9f9d30eac75fa8b7855bbadc6eefcee54e870563db0b467ddf3e26c8efe0f0d46e0bd5e7f97a42404cd0d3d8e44c8aae003a3465a0b02cc24801"
+
+[update]
+[update.modrinth]
+mod-id = "TaRVOwJr"
+version = "7TIEj7L3"

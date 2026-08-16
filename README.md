@@ -17,6 +17,7 @@
 - [Balm](https://modrinth.com/mod/MBAkmtvl) - Abstraction Layer for Multi-Loader Mods
 - [BCLib](https://modrinth.com/mod/BgNRHReB) - A Library Mod for the BetterX Team
 - [Better Archeology](https://modrinth.com/mod/zCh7omyG) - Discover artifacts & fossils by encountering new structures that'll enhance your adventure and exploration!
+- [Better Command Block UI](https://modrinth.com/mod/8iQcgjQ2) - Provides a more usable Command Block UI
 - [Better crafter](https://modrinth.com/mod/raTBUd9E) - Adds a Smart Crafter block that automates crafting with recipe locking patterns and intelligent inventory management for redstone systems.
 - [Better Third Person](https://modrinth.com/mod/G1s2WpNo) - Improves third person camera view.
 - [BetterEnd](https://modrinth.com/mod/gc8OEnCC) - New Biomes, mysterious rituals and Mobs for your End
@@ -51,6 +52,7 @@
 - [Concurrent Chunk Management Engine (Fabric)](https://modrinth.com/mod/VSNURh3q) - A Fabric mod designed to improve the chunk performance of Minecraft.
 - [Continuity](https://modrinth.com/mod/1IjD5062) - A Minecraft mod that allows for efficient connected textures
 - [Controlling](https://modrinth.com/mod/xv94TkTM) - Adds a search bar to the Key-Bindings menu
+- [Cooking for Blockheads](https://modrinth.com/mod/vJnhuDde) - Adds a multiblock kitchen that shows recipes you can make with what ingredients you have available.
 - [CorgiLib](https://modrinth.com/mod/ziOp6EO8) - A library mod containing code used across Corgi Taco's mods.
 - [CoroUtil](https://modrinth.com/mod/rLLJ1OZM) - Shared library mod for Corosus's mods
 - [CraftTweaker](https://modrinth.com/mod/Xg35A4rS) - CraftTweaker allows modpacks and servers to customize the game. With CraftTweaker you can change recipes, script events, add new commands and even change item properties!
@@ -87,6 +89,7 @@ Fair warning, your world will Freeze Upon first Structure generation.
 - [Energized Power - The Aether](https://modrinth.com/mod/3tCbCCSA) - Compatibility between Energized Power and The Aether
 - [Enhanced Block Entities](https://modrinth.com/mod/OVuFYfre) - Reduce block entity FPS lag with almost no compromises, and improve their visuals
 - [Enhanced Celestials](https://modrinth.com/mod/2rL16t1O) - A mod adding new Lunar Events like blood moons and harvest moons!
+- [Etcetera](https://modrinth.com/mod/TaRVOwJr) - Simple mod that adds random vanilla friendly features
 - [Explorer's Compass](https://modrinth.com/mod/RV1qfVQ8) - Allows you to locate structures anywhere in the world.
 - [Explorify](https://modrinth.com/mod/HSfsxuTo) - A simplistic, vanilla-friendly collection of new structures.
 - [Explosive Enhancement](https://modrinth.com/mod/OSQ8mw2r) - Makes the explosion animation look cooler.
@@ -111,8 +114,10 @@ Fair warning, your world will Freeze Upon first Structure generation.
 - [Gravestones](https://modrinth.com/mod/Heh3BbSv) - Adds highly configurable Graves that spawn on death to hold your items
 - [Handcrafted](https://modrinth.com/mod/pJmCFF0p) - Make your house a home!
 - [Hang Glider](https://modrinth.com/mod/uHWrqYcS) - Soar through the skies and explore the world's beauty with your brand-new hang glider!
+- [Health Indicator](https://modrinth.com/mod/hxaUKE37) - Displays players' health below their names.
 - [Heater](https://modrinth.com/mod/g3jBz897) - A bare minimal tech mod for centralised furnace fuel management.
 - [Hologenica](https://modrinth.com/mod/huOhn9zP) - Advanced sci-fi technology, including entity cloning, holograms and cross-dimensional teleportation.
+- [Hopper Gadgetry](https://modrinth.com/mod/RCK4uOMN) - Ready to build smarter, and cheaper contraptions? New hoppers are here to complement your lineup.
 - [Iceberg](https://modrinth.com/mod/5faXoLqX) - A modding library that contains new events, helpers, and utilities to make modder's lives easier.
 - [Illager Invasion](https://modrinth.com/mod/jSV9w0J5) - The illagers are back! Be ready to fight new foes. A port of Illager Expansion.
 - [Immersive Aircraft](https://modrinth.com/mod/x3HZvrj6) - A bunch of rustic aircraft to travel, transport, and explore!
@@ -142,6 +147,7 @@ Built for debugging, player support, server checks, and modpack troubleshooting.
 - [Moonlight Lib](https://modrinth.com/mod/twkfQtEc) - dynamic data pack and registration, villager activities, custom map marker and a lot more
 - [More Chat History](https://modrinth.com/mod/8qkXwOnk) - Increases the maximum length of chat history.
 - [Moving Elevators](https://modrinth.com/mod/9KZOe6HD) - Moving Elevators adds real Elevators to Minecraft!
+- [Multi Key Bindings](https://modrinth.com/mod/2VF6JEnL) - Allows players to create multiple keybindings for the same action/function.
 - [Nature's Compass](https://modrinth.com/mod/fPetb5Kh) - Allows you to locate biomes anywhere in the world.
 - [Nature's Spirit](https://modrinth.com/mod/WBvnqHfV) - A minecraft mod which enhances world generation with new biomes, blocks, and items
 - [Not Enough Animations](https://modrinth.com/mod/MPCX6s5C) - Bringing first-person animations to the third-person
@@ -158,6 +164,7 @@ Built for debugging, player support, server checks, and modpack troubleshooting.
 - [Reactive Music](https://modrinth.com/mod/Bqnfeesx) - Refactors Minecraft's music to be dynamic and reactive, including new fantasy and celtic tracks to give an air of adventure.
 - [Reborn Core](https://modrinth.com/mod/3NCrJdj3) - Reborn Core is a library used for many of the Tech Reborn team's mods
 - [Reese's Sodium Options](https://modrinth.com/mod/Bh37bMuy) - Alternative Options Menu for Sodium
+- [Refined Cooking](https://modrinth.com/mod/AOuwe9He) - A mod that allows Refined Storage and Cooking for Blockheads to work together!
 - [Refined Storage](https://modrinth.com/mod/KDvYkUg3) - An elegant solution to your hoarding problem.
 - [Refined Storage - EMI Integration](https://modrinth.com/mod/TCSDwmbf) - Refined Storage has an optional integration mod for EMI, enhancing crafting and recipe interaction.
 - [Refined Storage - Quartz Arsenal](https://modrinth.com/mod/gnwGOmBf) - Quartz Arsenal is an addon for Refined Storage that adds various new tools.
@@ -195,6 +202,7 @@ Built for debugging, player support, server checks, and modpack troubleshooting.
 - [Traveler's Backpack](https://modrinth.com/mod/rlloIFEV) - Unique and upgradeable backpacks with customisation, Curios API/Trinkets integration and more!
 - [Traveler's Titles](https://modrinth.com/mod/JtifUr64) - Epic, RPG-like titles when entering biomes & dimensions!
 - [Trinkets](https://modrinth.com/mod/5aaWibi9) - A data-driven accessory mod
+- [Underground Bunkers](https://modrinth.com/mod/MRK4tULJ) - Randomly generated bunkers hidden within your worlds
 - [Universal Grid](https://modrinth.com/mod/kpMfA312) - Adds a Universal Grid for Refined Storage
 - [Veinminer Enchantment](https://modrinth.com/mod/EfcAYyUG) - New enchantment for pickaxes to mine multiple matching connected ores!
 - [Visual Workbench](https://modrinth.com/mod/kfqD1JRw) - Items stay inside of crafting tables and are also rendered on top. It's really fancy!

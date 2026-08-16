@@ -109,6 +109,11 @@ hash = "dd18db1413980ef467ac2e86c7e5f3cef26d366119f43121204a442583e7c0bd"
 metafile = true
 
 [[files]]
+file = "mods/bettercommandblockui.pw.toml"
+hash = "e53155acc7b3692b6a2684f6334d50c9e128b1f007ad7b2c8b514e7d1f2500c5"
+metafile = true
+
+[[files]]
 file = "mods/betterend.pw.toml"
 hash = "f15c8cd06fb1e7ececdb01942d2b86a60a0eebaf9d88f9c3defda77c0a115496"
 metafile = true
@@ -266,6 +271,11 @@ metafile = true
 [[files]]
 file = "mods/controlling.pw.toml"
 hash = "eecdc8127f69c74ff55fd183d1f1d7d5ef3e714d73845a239fe9e086147a67b1"
+metafile = true
+
+[[files]]
+file = "mods/cooking-for-blockheads.pw.toml"
+hash = "ebfc5f1e4394ac766f52e068e53cac9b498d481cf15d569e1584792d04021d6e"
 metafile = true
 
 [[files]]
@@ -444,6 +454,11 @@ hash = "198589afdd95c440b1674b8b951d7e6ed6e087b5d32c1dc372a9ab30a31054ba"
 metafile = true
 
 [[files]]
+file = "mods/etcetera.pw.toml"
+hash = "ed38c33a0a32b9b89ddab5b1188ee9c0dc4994ff9d21ecf7c675095f8707007a"
+metafile = true
+
+[[files]]
 file = "mods/explorers-compass.pw.toml"
 hash = "9642962bbcc8bfd0fc299df9858ba7e9ff8d25a6d69a6df976577d9cb219f442"
 metafile = true
@@ -564,6 +579,11 @@ hash = "5e191142156533f1d94eb828787929c8dffb5dd441b2eb1905e2a9d4845a3d83"
 metafile = true
 
 [[files]]
+file = "mods/health-indicator.pw.toml"
+hash = "6810c18b7cf1a8cb61d680592feea59005f8207cf5844d1d70024a7600ff8c92"
+metafile = true
+
+[[files]]
 file = "mods/heater.pw.toml"
 hash = "211694065b70b1a37c1f0e77be0100cb189b03b2bbeed9e82f68e99882571cec"
 metafile = true
@@ -571,6 +591,11 @@ metafile = true
 [[files]]
 file = "mods/hologenica.pw.toml"
 hash = "d7cbba8993bd2fb4ef3d2e1bdcb5f5098f85d590d386f1bc2e0c7412989a7bf7"
+metafile = true
+
+[[files]]
+file = "mods/hopper-gadgetry.pw.toml"
+hash = "05782f036acb3c9ccfe187d9fd8d17d075ea59fbbd1f54cebbaa1571da6effec"
 metafile = true
 
 [[files]]
@@ -709,6 +734,11 @@ hash = "842c147dc4616214a2a8d070094fada1102e3b18c6c62cc879009ec4d80431de"
 metafile = true
 
 [[files]]
+file = "mods/multi-key-bindings.pw.toml"
+hash = "ff5e085a5703a282aeb475f789e609d73f619c8628bdaa6591289a510addcf22"
+metafile = true
+
+[[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "f53b91397b8a969e843af8772db448ab1c9bc556233a3b26266c52cfa77950fe"
 metafile = true
@@ -801,6 +831,11 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "55a727cabdd9d6e84fb0232b49d0dfa207751002e7f1f63b959baa35e2f29868"
+metafile = true
+
+[[files]]
+file = "mods/refined-cooking.pw.toml"
+hash = "f0f9dbd7ae4c6953c145938aaece401ab913741a67a94501dc565b0736cf6817"
 metafile = true
 
 [[files]]
@@ -976,6 +1011,11 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "860812150cb54f0d9ee1bce7b72798b6cc5f752bb05709f0c60231d054ec281d"
+metafile = true
+
+[[files]]
+file = "mods/underground-bunkers.pw.toml"
+hash = "e01e8209863a1fc414e455c0ceb4859635880ddbb50905dc8ca33b2614ae61f8"
 metafile = true
 
 [[files]]
