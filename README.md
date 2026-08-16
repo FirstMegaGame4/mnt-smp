@@ -177,7 +177,6 @@ Built for debugging, player support, server checks, and modpack troubleshooting.
 - [Soul Ice](https://modrinth.com/mod/ngBlYV53) - A mod about the next in Ice Tech
 - [spark](https://modrinth.com/mod/l6YH9Als) - spark is a performance profiler for Minecraft clients, servers and proxies.
 - [Stellaris](https://modrinth.com/mod/ItTQpuBn) - Discover the next gen space mod!
-- [Step Crafter](https://modrinth.com/mod/DI2geZT1) - Adds a Step Crafter and Step Requester which allows recursive crafting and keeping items in-stock to Refined Storage
 - [Structory](https://modrinth.com/mod/aKCwCJlY) - A seasonally updated and atmospheric structure mod with light lore
 - [SuperMartijn642's Config Lib](https://modrinth.com/mod/LN9BxssP) - Config Lib makes dealing with config files just a bit easier.
 - [SuperMartijn642's Core Lib](https://modrinth.com/mod/rOUBggPv) - SuperMartijn642's Core Lib adds lots of basic implementations that allow for similar code between different Minecraft versions!

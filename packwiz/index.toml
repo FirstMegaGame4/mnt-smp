@@ -899,11 +899,6 @@ hash = "2fb127dfd1760b6e255dfb5bcce4148782c647cfc8ed5d4d748262ff4fe84ed4"
 metafile = true
 
 [[files]]
-file = "mods/step-crafter.pw.toml"
-hash = "1be8bb79b06542c784ec83d0d8efdb5c37dce33be78150a472846fdc1089ba88"
-metafile = true
-
-[[files]]
 file = "mods/structory.pw.toml"
 hash = "70cd30931bd186fd3f9770062dd998774ac9e1c0cf478938a62d5815ffdcfe5b"
 metafile = true
